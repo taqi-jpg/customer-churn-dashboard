@@ -27,53 +27,52 @@ An interactive Streamlit dashboard that visualizes churn behavior in the Telco i
 
 ## 🖼️ Dashboard Previews
 
-> (Ensure these images exist in the `assets/` folder or update paths)
+> 📁 Make sure these screenshots exist inside the `assets/` folder
 
-![Churn Summary](assets/churn_summary.png)  
-![Churn by Internet Service](assets/internet_churn.png)  
-![Monthly Charges Box Plot](assets/monthly_charges.png)  
-![Churn Rate by Contract](assets/contract_churn.png)  
-![Correlation Heatmap](assets/correlation_heatmap.png)
+- ![Churn Summary](assets/churn_summary.png)  
+- ![Churn by Internet Service](assets/internet_churn.png)  
+- ![Monthly Charges Box Plot](assets/monthly_charges.png)  
+- ![Churn Rate by Contract](assets/contract_churn.png)  
+- ![Correlation Heatmap](assets/correlation_heatmap.png)
 
 ---
 
 ## 🚀 How to Run Locally
 
 1. **Clone this repository:**
-```bash
-git clone https://github.com/taqi-jpg/customer-churn-dashboard.git
-cd customer-churn-dashboard
---
+   ```bash
+   git clone https://github.com/taqi-jpg/customer-churn-dashboard.git
+   cd customer-churn-dashboard
 
----
+2. **Install dependencies:**
+    bash
 
-## ☁️ Live App
+    pip install -r requirements.txt
 
-Deployed on Streamlit Cloud  
-🔗 [View Live Dashboard](https://your-app.streamlit.app) *(replace with real URL)*
+3. **Run the app:**
+    streamlit run churn_dashboard.py
 
----
+☁️ Live App
+Deployed on Streamlit Cloud
+🔗 View Live Dashboard
 
-## 📌 Dataset Info
 
-**Source**: [Telco Customer Churn Dataset (IBM Sample)](https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/)  
-**Features Include**: Contract type, Monthly Charges, Internet service, Payment methods, and Churn labels
+📌 Dataset Info
+Source: Telco Customer Churn Dataset (IBM Sample)
+Features Include: Contract type, Monthly Charges, Internet service, Payment methods, and Churn labels
 
----
 
-## 🔗 Links
+🔗 Links
+*📂 GitHub Repository
 
-- 📂 [GitHub Repository](https://github.com/taqi-jpg/customer-churn-dashboard)  
-- 📊 [Live Streamlit App](https://your-app.streamlit.app) *(replace this too)*  
+*📊 Live Streamlit App
 
----
+✨ Author
+Built with ❤️ by Mohammed Taqiuddin Faraz
 
-## ✨ Author
+*🔗 LinkedIn
 
-Built with ❤️ by **Mohammed Taqiuddin Faraz**
+*🔗 GitHub
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-taqiuddin-faraz-719722349/)
-- 🔗 [GitHub](https://github.com/taqi-jpg)  
-- 📧 Reach me: `mail2mtf@gmail.com`
-=======
+📧 Reach me at: mail2mtf@gmail.com
 
