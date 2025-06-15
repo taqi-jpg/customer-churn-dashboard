@@ -52,27 +52,33 @@ An interactive Streamlit dashboard that visualizes churn behavior in the Telco i
 3. **Run the app:**
     streamlit run churn_dashboard.py
 
-☁️ Live App
-Deployed on Streamlit Cloud
-🔗 View Live Dashboard
+---
 
+## ☁️ Live App
 
-📌 Dataset Info
-Source: Telco Customer Churn Dataset (IBM Sample)
-Features Include: Contract type, Monthly Charges, Internet service, Payment methods, and Churn labels
+Deployed on Streamlit Cloud  
+🔗 [View Live Dashboard](https://customer-churn-dashboard-h3isvzq8xuxyswjeafqmp.streamlit.app)
 
+---
 
-🔗 Links
-*📂 GitHub Repository
+## 📌 Dataset Info
 
-*📊 Live Streamlit App
+**Source**: [Telco Customer Churn Dataset (IBM Sample)](https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/)  
+**Features Include**: Contract type, Monthly Charges, Internet service, Payment methods, and Churn labels
 
-✨ Author
-Built with ❤️ by Mohammed Taqiuddin Faraz
+---
 
-*🔗 LinkedIn
+## 🔗 Links
 
-*🔗 GitHub
+- 📂 [GitHub Repository](https://github.com/taqi-jpg/customer-churn-dashboard)  
+- 📊 [Live Streamlit App](https://customer-churn-dashboard-h3isvzq8xuxyswjeafqmp.streamlit.app)
 
-📧 Reach me at: mail2mtf@gmail.com
+---
 
+## ✨ Author
+
+Built with ❤️ by **Mohammed Taqiuddin Faraz**
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-taqiuddin-faraz-719722349/)
+- 🔗 [GitHub](https://github.com/taqi-jpg)  
+- 📧 Reach me at: [mail2mtf@gmail.com](mailto:mail2mtf@gmail.com)
